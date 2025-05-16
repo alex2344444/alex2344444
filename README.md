@@ -1,3 +1,22 @@
+👋 Hi there! I'm a 15-year-old aspiring Computer Science student and web developer.
+I love building websites and bringing ideas to life through code. Currently diving deep into HTML, CSS, JavaScript, and exploring frameworks like React. I'm passionate about technology, always learning, and working toward a future in computer science.
+
+🔧 Skills:
+
+Web Development (HTML, CSS, JavaScript)
+
+Responsive Design
+
+Git & GitHub
+
+📚 Goals:
+
+Become a full-stack developer
+
+Study Computer Science at university
+
+Build meaningful open-source projects
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_asadbek_3111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusupovasadbek44@gmail.com) 
