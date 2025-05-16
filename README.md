@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**alex2344444/alex2344444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi there! I'm a 15-year-old aspiring Computer Science student and web developer.
+
+I love building websites and bringing ideas to life through code. Currently diving deep into HTML, CSS, JavaScript, and exploring frameworks like React. I'm passionate about technology, always learning, and working toward a future in computer science.
+
+🔧 **Skills**:
+
+* Web Development (HTML, CSS, JavaScript)
+* Responsive Design
+* Git & GitHub
+
+📚 **Goals**:
+
+* Become a full-stack developer
+* Study Computer Science at university
+* Build meaningful open-source projects
+
+📱 **Connect with me**:
+
+* **Telegram**: [@millionaire2009](https://t.me/millionaire2009)
+* **Instagram**: [\_asadbek\_3111](https://instagram.com/_asadbek_3111)
+
+Thanks for visiting my GitHub — feel free to check out my projects or reach out!
+
+---
+
